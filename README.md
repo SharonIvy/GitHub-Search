@@ -32,7 +32,7 @@ Copyright (c) 2018 **Sharon Ivy Kendi M.**
 * Run the command;
 'git clone https://github.com/SharonIvy/githubsearch.git' to clone
 
-## Set-up
+## Set-up:
 ### Development Server
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
