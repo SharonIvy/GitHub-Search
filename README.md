@@ -5,7 +5,7 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli)
 
 ## Description
-This is an application where users can create quotes, have them upvoted or downvoted and delete them.
+Create a website where users may enter a GitHub username into a form, submit it, and see names and descriptions of that person's public repositories. A person can also look for repositories.
 
 ## Pre-requisites:
 * An up-to-date browser
@@ -15,15 +15,19 @@ This is an application where users can create quotes, have them upvoted or downv
 * Text Editor
 
 ## Project setup requirements:
-  * Fork this repository.
+  * Fork this repository
   * Run the command;
-    'git clone https://github.com/SharonIvy/quotes-app.git' to clone.
+    'git clone https://github.com/SharonIvy/githubsearch.git' to clone
 
 ## Tehnologies Used:
 * HTML
 * CSS
 * Bootstrap
 * TypeScript
+
+## Live Demo
+
+The live demo to the project can be found [by clicking here] https://sharon-ivy.github.io/github-search/
 
 ## Development Server
 
