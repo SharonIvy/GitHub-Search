@@ -14,11 +14,6 @@ Create a website where users may enter a GitHub username into a form, submit it,
 * npm
 * Text Editor
 
-## Project setup requirements:
-  * Fork this repository
-  * Run the command;
-    'git clone https://github.com/SharonIvy/githubsearch.git' to clone
-
 ## Technologies Used:
 * HTML
 * CSS
@@ -29,10 +24,15 @@ Create a website where users may enter a GitHub username into a form, submit it,
 The live demo to the project can be found [by clicking here] https://sharon-ivy.github.io/github-search/
 
 ## License:
-  MIT License
+MIT License
+Copyright (c) 2018 **Sharon Ivy Kendi M.**
+  
+## Project setup requirements:
+* Fork this repository
+* Run the command;
+'git clone https://github.com/SharonIvy/githubsearch.git' to clone
 
-  Copyright (c) 2018 **Sharon Ivy Kendi M.**
-
+## Set-up
 ### Development Server
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
