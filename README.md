@@ -19,6 +19,12 @@ This is an application where users can create quotes, have them upvoted or downv
   * Run the command;
     'git clone https://github.com/SharonIvy/quotes-app.git' to clone.
 
+## Tehnologies Used:
+* HTML
+* CSS
+* Bootstrap
+* TypeScript
+
 ## Development Server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
