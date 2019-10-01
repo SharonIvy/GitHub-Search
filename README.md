@@ -5,32 +5,32 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli)
 
 ## Description
-Create a website where users may enter a GitHub username into a form, submit it, and see names and descriptions of that person's public repositories. A person can also look for repositories.
+   Create a website where users may enter a GitHub username into a form, submit it, and see names and descriptions of that person's public repositories. A person can also look for repositories.
 
 ## Pre-requisites:
-* An up-to-date browser
-* Git
-* Angular CLI
-* npm
-* Text Editor
+  * An up-to-date browser
+  * Git
+  * Angular CLI
+  * npm
+  * Text Editor
 
 ## Technologies Used:
-* HTML
-* CSS
-* Bootstrap
-* TypeScript
+  * HTML
+  * CSS
+  * Bootstrap
+  * TypeScript
 
 ## Live Demo:
-The live demo to the project can be found [by clicking here] https://sharon-ivy.github.io/github-search/
+  The live demo to the project can be found [by clicking here] https://sharon-ivy.github.io/github-search/
 
 ## License:
-MIT License
-Copyright (c) 2018 **Sharon Ivy Kendi M.**
+  MIT License
+  Copyright (c) 2018 **Sharon Ivy Kendi M.**
   
 ## Project setup requirements:
-* Fork this repository
-* Run the command;
-'git clone https://github.com/SharonIvy/githubsearch.git' to clone
+  * Fork this repository
+  * Run the command;
+  'git clone https://github.com/SharonIvy/githubsearch.git' to clone
 
 ## Set-up:
 ### Development Server;
