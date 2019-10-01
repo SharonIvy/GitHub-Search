@@ -1,11 +1,18 @@
 # GITHUB SEARCH
 
-#### By: Sharon Ivy Kendi
+#### By: Sharon Ivy Kendi M
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli)
 
-## DESCRIPTION
+## Description
 This is an application where users can create quotes, have them upvoted or downvoted and delete them.
+
+## Pre-requisites
+* An up-to-date browser
+* Git
+* Angular CLI
+* npm
+* Text Editor
 
 ## Development Server
 
