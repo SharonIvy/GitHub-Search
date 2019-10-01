@@ -25,7 +25,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## License:
   MIT License
-  Copyright (c) 2018 **Sharon Ivy Kendi M.**
+    Copyright (c) 2018 **Sharon Ivy Kendi M.**
   
 ## Project setup requirements:
   * Fork this repository
