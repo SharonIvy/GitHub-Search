@@ -21,7 +21,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
   * TypeScript
 
 ## Live Demo:
-  The live demo to the project can be found [by clicking here] https://sharon-ivy.github.io/github-search/
+  The live demo to the project is under construction
 
 ## License:
   MIT License
